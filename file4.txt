@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-this is some woodo stuff right hre my man
-=======
-this is som contentto mess up with later
-new line in here in file4.txt
->>>>>>> 774b7df (New line in file4.txt)
+this is some woodo stuff right here my man
