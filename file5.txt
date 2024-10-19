@@ -1,3 +1,4 @@
+my feature
 this is file5.txt create in newfeature branch
 new line 
 new feature
